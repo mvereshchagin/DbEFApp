@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <connectionStrings>
+    <Zoo>Server=02F1R106C01CDPO;Database=Zoo;Trusted_Connection=True;</Zoo>
+  </connectionStrings>
+  <Logging>
+    <LogLevel>
+      <Default>Information</Default>
+      <Microsoft>Warning</Microsoft>
+    </LogLevel>
+  </Logging>
+</configuration>
